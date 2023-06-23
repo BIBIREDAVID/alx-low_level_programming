@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * 
+ *i is any number
+ *vi positive_or_negative.c checks for positive and negative numbers
  */
 void positive_or_negative(int i)
 {
